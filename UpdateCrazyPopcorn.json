@@ -1,16 +1,8 @@
 {
-  "showDialog": true,
-  "appVersionCode": 1368,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://whatsapp.com/channel/0029Vb6NY4v7NoZs4ADHnm0m",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "CrazyPopcorn": {
+    "version": "1.5.24",
+    "message": "<b>🚀 PEMBARUAN TERSEDIA</b><br><br><br><b>Bagaimana Cara Perbarui?</b><br>• Klik Tombol Perbarui<br>• Setelah Berada Disaluran<br>• Kemudian Cari MOD Nya<br>• Dan Silahkan Download<br>• Selesai, Terimakasih :)",
+    "link_download": "https://whatsapp.com/channel/0029Vb7qzQ229755sB6iGo1I",
+    "version_code": "1.5.24"
+  }
 }
